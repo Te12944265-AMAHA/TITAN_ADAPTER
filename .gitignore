@@ -1,0 +1,10 @@
+# Altium
+desktop.ini
+__Previews/
+History/
+Project Logs for TITAN_ADAPTER/
+Project Outputs for TITAN_ADAPTER/
+cad/
+
+*.asv
+*.WAS
